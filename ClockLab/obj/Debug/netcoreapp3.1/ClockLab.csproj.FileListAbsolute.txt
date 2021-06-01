@@ -1,0 +1,15 @@
+C:\Users\Denis\source\repos\ClockLab\ClockLab\obj\Debug\netcoreapp3.1\ClockLab.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\ClockLab\ClockLab\obj\Debug\netcoreapp3.1\ClockLab.Form1.resources
+C:\Users\Denis\source\repos\ClockLab\ClockLab\obj\Debug\netcoreapp3.1\ClockLab.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\ClockLab\ClockLab\obj\Debug\netcoreapp3.1\ClockLab.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\ClockLab\ClockLab\obj\Debug\netcoreapp3.1\ClockLab.AssemblyInfo.cs
+C:\Users\Denis\source\repos\ClockLab\ClockLab\obj\Debug\netcoreapp3.1\ClockLab.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\ClockLab\ClockLab\bin\Debug\netcoreapp3.1\ClockLab.exe
+C:\Users\Denis\source\repos\ClockLab\ClockLab\bin\Debug\netcoreapp3.1\ClockLab.deps.json
+C:\Users\Denis\source\repos\ClockLab\ClockLab\bin\Debug\netcoreapp3.1\ClockLab.runtimeconfig.json
+C:\Users\Denis\source\repos\ClockLab\ClockLab\bin\Debug\netcoreapp3.1\ClockLab.runtimeconfig.dev.json
+C:\Users\Denis\source\repos\ClockLab\ClockLab\bin\Debug\netcoreapp3.1\ClockLab.dll
+C:\Users\Denis\source\repos\ClockLab\ClockLab\bin\Debug\netcoreapp3.1\ClockLab.pdb
+C:\Users\Denis\source\repos\ClockLab\ClockLab\obj\Debug\netcoreapp3.1\ClockLab.dll
+C:\Users\Denis\source\repos\ClockLab\ClockLab\obj\Debug\netcoreapp3.1\ClockLab.pdb
+C:\Users\Denis\source\repos\ClockLab\ClockLab\obj\Debug\netcoreapp3.1\ClockLab.genruntimeconfig.cache
